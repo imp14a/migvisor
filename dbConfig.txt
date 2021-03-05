@@ -1,0 +1,3 @@
+Name:Probe:Analyze workload:Engine:Version:Host:Port:DB ID Type:DB/SID:User:Pass:Is PDB:CDB SID:CDB User:CDB Password:Windows Auth
+database1:true:true:Oracle:11.2:192.0.2.1:1521:Service Name:ORCL:example_user1:password:false::::false
+database2:true:true:Oracle:12.1:192.0.2.2:1521:SID:porcl:example_user2:password:false::::false
